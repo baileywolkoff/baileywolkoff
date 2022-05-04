@@ -2,8 +2,10 @@
 
 On my GitHub you'll be able to check in on the new and exciting projects that I am working on. I love Python, and I want to continue to use it as a tool to derive meaning in data. I have a curious mind that stems from a background in physics, and the right tools at my disposal to satiate my desire to learn. 
 ### Who am I?<br>
-* 🩺 Recently completed: [***Ecommerce Product Recommendation System***](https://github.com/baileywolkoff/Olist-Recommender-System)
-* 📚 Education: Data Analytics bootcamp student ([Juno College](https://github.com/HackerYou)), Google Data Analytics Professional Certificate,[](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AQueen%2527s_Golden_Gaels_Logo.svg&psig=AOvVaw1B0R8CCHUTtYnHaDDAoh7J&ust=1651774616579000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOjQ8ou6xvcCFQAAAAAdAAAAABAD) Queen's University Physics Undergraduate <br>
+* 🖥️ Recently completed: [***Ecommerce Product Recommendation System***](https://github.com/baileywolkoff/Olist-Recommender-System)
+* 🏅 Ex Team Canada National Trampolinist!
+* 🎮 Likes: Video Games, Movies, Toronto Sports, and Stand-Up Comedy 
+* 📚 Education: Data Analytics BootcampGraduate ([Juno College](https://github.com/HackerYou)), Google Data Analytics Professional Certificate, Queen's University Physics Undergraduate Degree <br>
 * 💪🏻 Strengths: Critical Thinking, Attention to Detail, Team Collaboration, Technical Writing, Communication, Leadership<br>
 * 🧮 Background in Physics<br>
 * 🛠 Tech Stack:

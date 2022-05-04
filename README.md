@@ -7,7 +7,7 @@ On my GitHub you'll be able to check in on the new and exciting projects that I 
 * 🎮 Likes: Video Games, Toronto Sports, Cottaging and Camping 
 * 📚 Education: Data Analytics Bootcamp Graduate ([Juno College](https://github.com/HackerYou)), Google Data Analytics Professional Certificate ([Coursera](https://coursera.org/share/22aebc15da80eabbadd6257d0c387854)), Queen's University Physics Undergraduate Degree <br>
 * 💪🏻 Strengths: Critical Thinking, Attention to Detail, Team Collaboration, Technical Writing, Communication, Leadership<br>
-* 🧮 Background in Physics<br>
+* ⚛️ Background in Physics<br>
 * 🛠 Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

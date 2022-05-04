@@ -4,7 +4,7 @@ On my GitHub you'll be able to check in on the new and exciting projects that I 
 ### Who am I?<br>
 * 🖥️ Recently completed: [***Ecommerce Product Recommendation System***](https://github.com/baileywolkoff/Olist-Recommender-System)
 * 🏅 Ex Team Canada National Trampolinist!
-* 🎮 Likes: Video Games, Movies, Toronto Sports, and Stand-Up Comedy 
+* 🎮 Likes: Video Games, Toronto Sports, Cottaging and Camping 
 * 📚 Education: Data Analytics BootcampGraduate ([Juno College](https://github.com/HackerYou)), Google Data Analytics Professional Certificate, Queen's University Physics Undergraduate Degree <br>
 * 💪🏻 Strengths: Critical Thinking, Attention to Detail, Team Collaboration, Technical Writing, Communication, Leadership<br>
 * 🧮 Background in Physics<br>

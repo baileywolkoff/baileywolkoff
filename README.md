@@ -5,7 +5,7 @@ On my GitHub you'll be able to check in on the new and exciting projects that I 
 * 🖥️ Recently completed: [***Ecommerce Product Recommendation System***](https://github.com/baileywolkoff/Olist-Recommender-System)
 * 🏅 Ex Team Canada National Trampolinist!
 * 🎮 Likes: Video Games, Toronto Sports, Cottaging and Camping 
-* 📚 Education: Data Analytics BootcampGraduate ([Juno College](https://github.com/HackerYou)), Google Data Analytics Professional Certificate, Queen's University Physics Undergraduate Degree <br>
+* 📚 Education: Data Analytics Bootcamp Graduate ([Juno College](https://github.com/HackerYou)), Google Data Analytics Professional Certificate ([Coursera](https://coursera.org/share/22aebc15da80eabbadd6257d0c387854)), Queen's University Physics Undergraduate Degree <br>
 * 💪🏻 Strengths: Critical Thinking, Attention to Detail, Team Collaboration, Technical Writing, Communication, Leadership<br>
 * 🧮 Background in Physics<br>
 * 🛠 Tech Stack:
@@ -27,7 +27,7 @@ On my GitHub you'll be able to check in on the new and exciting projects that I 
 <br>
 **** 
 
-Feel free to reach out!   
+I would love to chat! Reach out at: 
 <a href="mailto:wolkoff.97@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
 <a href="https://www.linkedin.com/in/bailey-wolkoff/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.twitter.com/wolkoffbailey"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>

@@ -27,6 +27,9 @@ On my GitHub you'll be able to check in on the new and exciting projects that I 
 <br>
 **** 
 
-Feel free to reach out!   <a href="mailto:wolkoff.97@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/bailey-wolkoff/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+Feel free to reach out!   
+<a href="mailto:wolkoff.97@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+<a href="https://www.linkedin.com/in/bailey-wolkoff/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.twitter.com/wolkoffbailey"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+
 
